@@ -4,3 +4,6 @@
 [submodule "aws-lambda-orders-api"]
 	path = aws-lambda-orders-api
 	url = https://github.com/ShankarShivagangePrakash/aws-lambda-orders-api.git
+[submodule "patient-aws-lambda"]
+	path = patient-aws-lambda
+	url = https://github.com/ShankarShivagangePrakash/patient-aws-lambda.git
