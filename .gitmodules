@@ -1,3 +1,6 @@
 [submodule "hello-world-aws-lambda-using-java"]
 	path = hello-world-aws-lambda-using-java
 	url = https://github.com/ShankarShivagangePrakash/hello-world-aws-lambda-using-java.git
+[submodule "aws-lambda-orders-api"]
+	path = aws-lambda-orders-api
+	url = https://github.com/ShankarShivagangePrakash/aws-lambda-orders-api.git
