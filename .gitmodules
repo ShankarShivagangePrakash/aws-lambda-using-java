@@ -1,0 +1,3 @@
+[submodule "hello-world-aws-lambda-using-java"]
+	path = hello-world-aws-lambda-using-java
+	url = https://github.com/ShankarShivagangePrakash/hello-world-aws-lambda-using-java.git
